@@ -1,3 +1,7 @@
+Esse é o resultado da aula "Publicando um site estático com SWA e Integrando com GitHub Actions", por Glaucia Lemos, na plataforma "Digital Innovation One"
+
+Repositório Original: https://github.com/glaucia86/vuejs-todolist-swa
+
 # Aplicação Todo List Vue.js 2 com SWA + GitHub Actions
 
 
